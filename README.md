@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan Ammar ,..
 - 👀 I’m interested in AI, and its implementation in medical healthcare ,..
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Web Development & Machine Learning
 - 📫 How to reach me telegram: @Hassan1434 
 
 <!---
