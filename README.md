@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hassan Ammar ,..
-- 👀 I’m interested in AI, and it's implementation in medical healthcare ,..
+- 👀 I’m interested in AI, and its implementation in medical healthcare ,..
 - 🌱 I’m currently learning web development
 - 📫 How to reach me telegram: @Hassan1434 
 
