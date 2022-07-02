@@ -4,7 +4,7 @@
 <h3 align="center">- 🌱 I’m currently learning Web Development & Machine Learning</h3>
 
 <p align="center">
-    <a href="https://app.daily.dev/HassanAmmar175"><img src="https://api.daily.dev/devcards/b5cc1dd987704fdcaad5c879c9a22895.png?r=t1u" width="400" alt="Hassan Ammar's Dev Card"/></a>
+    <a href="https://app.daily.dev/HassanAmmar175"><img src="https://github.com/hassan12ammar/hassan12ammar/blob/main/devcard.svg" width="400" alt="Hassan Ammar's Dev Card"/></a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan12ammar" alt="hassan12ammar" /></a> </p>
