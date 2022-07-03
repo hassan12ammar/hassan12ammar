@@ -9,9 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan12ammar" alt="hassan12ammar" /></a> </p>
 
-<h3 align="center">- 💬 Ask me about **python, django, maybe AI**</h3>
+<h3 align="center">- 💬 Ask me about <strong>python, django, maybe AI</strong></h3>
 
-<h3 align="center">- 📫 How to reach me **mgamea125@gmail.com** Or **https://t.me/Hassan1434**</h3>
+<h3 align="center">- 📫 How to reach me <strong>mgamea125@gmail.com</strong> Or <strong>https://t.me/Hassan1434</strong></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
