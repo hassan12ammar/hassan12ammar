@@ -2,13 +2,16 @@
     Hi 👋, I'm Hassan Ammar
 </h1>
 <h3 align="center">
-    BioMedical Informatics
+    Full Stack web developmer
 </h3>
 <h3 align="center">
-     - 👀 I’m interested in Data Science, and its implementation in medical healthcare
+     prefer working on Backend side & UI/UX of the web development process
 </h3>
 <h3 align="center">
-    - 🌱 currently learning Spring Boot
+     - 👀 interested in Data Science, and its implementation in medical & Mental Health
+</h3>
+<h3 align="center">
+    - 🌱 currently practicing Algorithms & Data Structure
 </h3>
 
 <p align="center">
