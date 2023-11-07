@@ -19,8 +19,10 @@ I love the thrill of solving complex problems. My dedication to algorithms and d
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
         alt="linkedin.com/in/hassan12ammar" height="30" width="40" />
     </a>
+    <!---
     <a href="https://leetcode.com/hassan12ammar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="instagram.com/hassan12ammar_" height="30" width="40" />
     </a>
+    --->
     <a href="https://t.me/hassan12ammar" target="blank">
         <img align="center" 
         src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
@@ -97,6 +99,7 @@ I love the thrill of solving complex problems. My dedication to algorithms and d
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan12ammar&show_icons=true&locale=en&theme=radical)](https://github-readme-stats.vercel.app/api?username=hassan12ammar&show_icons=true&locale=en&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassan12ammar&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=hassan12ammar&theme=radical)
 
+<!---
 ## 📊 LeetCode Journey
 
 Keep up with my LeetCode progress and see how I'm heating up the coding challenges with my LeetCode Stats:
@@ -105,3 +108,4 @@ Keep up with my LeetCode progress and see how I'm heating up the coding challeng
         <img src="https://leetcard.jacoblin.cool/hassan12ammar?theme=dark&font=PT%20Sans&ext=heatmap" alt="LeetCode Stats" />
     </a>
 </div>
+--->
