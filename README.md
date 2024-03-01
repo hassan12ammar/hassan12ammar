@@ -21,18 +21,18 @@ I love the thrill of solving complex problems. My dedication to algorithms and d
 
 <div>
     <a href="https://linkedin.com/in/hassan12ammar" target="blank">
-        <img align="center" 
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
         alt="linkedin.com/in/hassan12ammar" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/hassan12ammar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="instagram.com/hassan12ammar_" height="30" width="40" />
+    <a href="https://leetcode.com/hassan12ammar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="instagram.com/hassan12ammar_" height="30" width="40" />
     </a>
     <a href="https://t.me/hassan12ammar" target="blank">
-        <img align="center" 
-        src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
-        alt="https://t.me/hassan12ammar" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
+        alt="t.me/hassan12ammar" height="30" width="40" />
     </a>
-    <a href="instagram.com/hassan12ammar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/hassan12ammar_" height="30" width="40" />
+    <a href="https://instagram.com/hassan12ammar_" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/hassan12ammar_" height="30" width="40" />
     </a>
 </div>
 
