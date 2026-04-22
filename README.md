@@ -1,70 +1,71 @@
-# Hi there, I'm a Human Being 👋
+# Hi there, I'm a Human Being
 
-## 👨🏼‍💻 Developer
-Work as Back-End developer with a knack for creating elegant interfaces. My passion extends to UX design, where I blend functionality and aesthetics to deliver exceptional user experiences.
+I build backend systems with a strong focus on developer experience, user experience, and architecture. I prefer readable code over clever code, measurement over guessing, and I think AI should be part of every modern development workflow.
 
-## 🤖 Algorithmic Problem Solver
-I love the thrill of solving complex problems. My dedication to algorithms and data structures fuels my daily **LeetCode journey**, where I tackle challenges head-on.
+<p align="left">
+  <a href="https://linkedin.com/in/hassan12ammar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/hassan12ammar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+  <a href="https://t.me/hassan12ammar" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
-<div>
-    <a href="https://leetcode.com/hassan12ammar/" target="blank">
-        <img src="https://leetcard.jacoblin.cool/hassan12ammar?theme=dark&font=PT%20Sans&ext=heatmap" alt="LeetCode Status" />
-    </a>
-</div>
+## About Me
 
-## My accounts:
+- I like exploring architectures, new ways to build products, and tools that improve how developers work.
+- I care deeply about user experience, even when I am working on backend systems.
+- I believe most performance conversations should start with measurement, not assumptions.
+- I regularly practice algorithms and data structures through LeetCode.
 
-<div>
-    <a href="https://linkedin.com/in/hassan12ammar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-        alt="linkedin.com/in/hassan12ammar" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/hassan12ammar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="instagram.com/hassan12ammar_" height="30" width="40" />
-    </a>
-    <a href="https://t.me/hassan12ammar" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
-        alt="t.me/hassan12ammar" height="30" width="40" />
-    </a>
-</div>
+## Stack
 
-## Languages and Tools:
-<div>
-    <!-- Languages -->
-    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt='python' width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    <img alt="seperator" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/> 
-    <!-- Frameworks -->
-    <img alt="NestJS" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" width="40" height="40"/>
-    <img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-    <img alt="empty-seperator" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/> <!-- sep -->
-    <!-- Data Science -->
-    <img alt="pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/> 
-    <img alt="scikit_learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> 
-    <img alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-    <img alt="seperator" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/> 
-    <img alt="seperator"src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/> <!-- sep -->
-    <!-- Tools -->
-    <img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-    <img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> 
-    <img alt="seperator" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/> <!-- sep -->
-    <img alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
-    <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-    <img alt="heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/> 
-    <img alt="seperator"src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/> <!-- sep -->
-    <img alt="SQLite"src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> 
-    <img alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> 
-</div>
+<p><strong>Languages</strong></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+</p>
+<p>Python, JavaScript, TypeScript</p>
 
-## 📊 GitHub status
+<p><strong>Frameworks</strong></p>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="NestJS" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
+</p>
+<p>NestJS, Django</p>
 
-<div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan12ammar&show_icons=true&locale=en&theme=radical)](https://github-readme-stats.vercel.app/api?username=hassan12ammar&show_icons=true&locale=en&theme=radical) 
-</div>
+<p><strong>Tools</strong></p>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  <img src="https://cdn.scalar.com/marketing/landing/logo-dark.svg" alt="Scalar" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://bun.sh/logo.svg" alt="Bun" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/140182603?s=200&v=4" alt="Biome" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/128933455?s=48&v=4" alt="Kysely" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
+</p>
+<p>Postman, Scalar, Linux, Git, Bun, Biome, Heroku, Kysely, PostgreSQL, SQLite</p>
 
-<div>
+## LeetCode
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassan12ammar&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=hassan12ammar&theme=radical)
-<div style="text-align: center;">
+<a href="https://leetcode.com/hassan12ammar/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/hassan12ammar?theme=catppuccinMocha&font=PT%20Sans&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan12ammar&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan12ammar&theme=dark" alt="GitHub Streak" />
+</p>
